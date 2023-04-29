@@ -6,4 +6,4 @@ To run:
 // myapp folder
 npm run devstart
 
-localhosst:3000
+localhost:3000
